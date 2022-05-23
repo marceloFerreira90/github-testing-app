@@ -9,4 +9,4 @@ attempt 3 : commit as commiter github and actor dependabot = success
 
 attempt 4 : commit signed = success
 
-attempt 5 : commit signed with github committer and actor dependabot = failing but working as expected
+attempt 5 : commit signed with github committer and actor dependabot = working as expected
